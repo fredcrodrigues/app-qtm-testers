@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1057847752225",
+    "project_id": "app-qtm-testadores",
+    "storage_bucket": "app-qtm-testadores.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057847752225:android:11a1fcdf19c255af131560",
+        "android_client_info": {
+          "package_name": "com.mycompany.testeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9cRcEmw5ryvw3_qIH92-KP8D6cHmWK9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
